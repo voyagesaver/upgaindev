@@ -6427,9 +6427,10 @@
     },
     "logo.html": {
       "settings": {
-        "meta_descr": "Website Builder Description",
+        "meta_descr": "Upgain Logo Portfolio",
         "title": "Logo Portfolio",
-        "order": 1
+        "order": 1,
+        "meta_image": "@PROJECT_PATH@/assets/images/frame%2067-2000x1228.png"
       },
       "components": [
         {
